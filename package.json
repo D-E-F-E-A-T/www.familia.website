@@ -11,7 +11,8 @@
     },
     "dependencies": {
         "react": "^16.3.2",
-        "react-dom": "^16.3.2"
+        "react-dom": "^16.3.2",
+        "react-hot-loader": "^4.1.2"
     },
     "devDependencies": {
         "@gik/eslint-config-react": "0.0.6",
@@ -19,11 +20,10 @@
         "babel-plugin-root-import": "^5.1.0",
         "eslint": "^4.19.1",
         "node-sass": "^4.9.0",
-        "react-app-rewire-css-modules": "^1.0.0",
+        "react-app-rewire-css-modules": "github:codebandits/react-app-rewire-css-modules",
         "react-app-rewire-hot-loader": "^1.0.1",
         "react-app-rewire-less": "^2.1.1",
         "react-app-rewired": "^1.5.2",
-        "react-hot-loader": "^4.1.2",
         "react-scripts": "^1.1.4",
         "sass-loader": "^7.0.1"
     }
