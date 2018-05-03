@@ -1,0 +1,9 @@
+
+# specific
+/build
+
+# generic
+node_modules
+.DS_*
+*.log
+.tern-port
